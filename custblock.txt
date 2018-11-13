@@ -24,6 +24,12 @@ zgysjs.cc
 p2s.download.baidu.com
 pcapp-update.youku.com
 query.hy.baidu.com
+1111.wxad025.cn
+dc.haizirv.cn
+dg.webofxm.cn
+image.haizirv.cn
+img.doub.pw
+ip.sb
 ra.gtimg.com
 adservice.google.com.hk
 adservice.google.com.tw
