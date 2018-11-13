@@ -32,8 +32,8 @@ adservice.google.com.ge
 r1---sn-25glene6.googlevideo.com
 r1---sn-i3b7knl6.googlevideo.com
 r4---sn-i3b7knld.googlevideo.com
-r1---sn-i3belne6.googlevideo.com
 r8---sn-juh-h4hs.googlevideo.com
 r3---sn-i3belnez.googlevideo.com
 r5---sn-i3b7kn7k.googlevideo.com
 r5---sn-i3b7knl6.googlevideo.com
+r1---sn-i3belne6.googlevideo.com
