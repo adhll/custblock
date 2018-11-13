@@ -2,7 +2,7 @@
 ＃项目地址： https://github.com/adhll/custblock
 #Title：自定义的黑名单
 #
-＃域名数：23
+＃域名数：22
 # ===============================================================
 0.0.0.0 ad.ikonke.com
 0.0.0.0 appstore-gw.ztehome.com.cn
@@ -15,7 +15,6 @@
 0.0.0.0 m.hcenc.com
 0.0.0.0 m.xkena.com
 0.0.0.0 m.yguap.com
-0.0.0.0 mesu.apple.com
 0.0.0.0 s.ytimg.com
 0.0.0.0 update.yy.com
 0.0.0.0 v.quxy9.cn
