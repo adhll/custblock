@@ -33,4 +33,3 @@ adservice.google.com.ge
 s.ytimg.com
 r1---sn-25glene6.googlevideo.com
 r1---sn-i3b7knl6.googlevideo.com
-r1---sn-i3belne6.googlevideo.com
