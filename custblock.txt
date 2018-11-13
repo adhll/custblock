@@ -26,3 +26,7 @@
 0.0.0.0 pcapp-update.youku.com
 0.0.0.0 query.hy.baidu.com
 0.0.0.0 ra.gtimg.com
+0.0.0.0 adservice.google.com.hk
+0.0.0.0 adservice.google.com.tw
+0.0.0.0 adservice.google.com.jp
+0.0.0.0 adservice.google.com.ge
