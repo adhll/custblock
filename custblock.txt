@@ -30,7 +30,6 @@ adservice.google.com.tw
 adservice.google.com.jp
 adservice.google.com.ge
 r1---sn-25glene6.googlevideo.com
-r1---sn-i3b7knl6.googlevideo.com
 r4---sn-i3b7knld.googlevideo.com
 r8---sn-juh-h4hs.googlevideo.com
 r5---sn-i3b7knl6.googlevideo.com
