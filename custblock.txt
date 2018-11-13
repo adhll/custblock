@@ -31,6 +31,7 @@ image.haizirv.cn
 img.doub.pw
 ip.sb
 ra.gtimg.com
+googleadservices.com
 pubads.g.doubleclick.net
 adservice.google.com.hk
 adservice.google.com.tw
