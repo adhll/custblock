@@ -50,7 +50,6 @@ r5---sn-n4v7sne7.googlevideo.com
 r5---sn-juh-h4hz.googlevideo.com
 r5---sn-n4v7knll.googlevideo.com
 r2---sn-aigl6n7s.googlevideo.com
-r2---sn-i3b7knl6.googlevideo.com
 r2---sn-npoeen7y.googlevideo.com
 r3---sn-i3belnel.googlevideo.com
 r5---sn-i3b7kn7s.googlevideo.com
@@ -69,3 +68,4 @@ r4---sn-npoe7n7y.googlevideo.com
 r4---sn-25glenes.googlevideo.com
 r2---sn-i3belnel.googlevideo.com
 r1---sn-npoeenez.googlevideo.com
+r2---sn-npoe7n7r.googlevideo.com
