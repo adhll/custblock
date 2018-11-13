@@ -4,30 +4,30 @@
 #
 ＃域名数：27
 # ===============================================================
-0.0.0.0 ad.ikonke.com
-0.0.0.0 appstore-gw.ztehome.com.cn
-0.0.0.0 appstore.ztehome.com.cn
-0.0.0.0 down.verify.stat.xunlei.com
-0.0.0.0 g1.tagtic.cn
-0.0.0.0 i1.ytimg.com
-0.0.0.0 i3.ytimg.com
-0.0.0.0 i9.ytimg.com
-0.0.0.0 m.hcenc.com
-0.0.0.0 m.xkena.com
-0.0.0.0 m.yguap.com
-0.0.0.0 s.ytimg.com
-0.0.0.0 update.yy.com
-0.0.0.0 v.quxy9.cn
-0.0.0.0 wpad.lan
-0.0.0.0 www.520mojing.com
-0.0.0.0 wx1.sinaimg.cn
-0.0.0.0 zgysjs.cc
-0.0.0.0 p2s.download.baidu.com
-0.0.0.0 pcapp-update.youku.com
-0.0.0.0 query.hy.baidu.com
-0.0.0.0 ra.gtimg.com
-0.0.0.0 adservice.google.com.hk
-0.0.0.0 adservice.google.com.tw
-0.0.0.0 adservice.google.com.jp
-0.0.0.0 adservice.google.com.ge
-0.0.0.0 s.ytimg.com
+ad.ikonke.com
+appstore-gw.ztehome.com.cn
+appstore.ztehome.com.cn
+down.verify.stat.xunlei.com
+g1.tagtic.cn
+i1.ytimg.com
+i3.ytimg.com
+i9.ytimg.com
+m.hcenc.com
+m.xkena.com
+m.yguap.com
+s.ytimg.com
+update.yy.com
+v.quxy9.cn
+wpad.lan
+www.520mojing.com
+wx1.sinaimg.cn
+zgysjs.cc
+p2s.download.baidu.com
+pcapp-update.youku.com
+query.hy.baidu.com
+ra.gtimg.com
+adservice.google.com.hk
+adservice.google.com.tw
+adservice.google.com.jp
+adservice.google.com.ge
+s.ytimg.com
