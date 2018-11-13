@@ -1,4 +1,4 @@
-＃主机文件阻止广告，跟踪等等！更新日期：2018-11-13 11：12：05
+＃主机文件阻止广告，跟踪等等！更新日期：2018-11-13 16：38：05
 ＃项目地址： https://github.com/adhll/custblock
 #Title：自定义的黑名单
 #
@@ -50,3 +50,4 @@ r3---sn-i3belnel.googlevideo.com
 r5---sn-i3b7kn7s.googlevideo.com
 r5---sn-juh-h4hz.googlevideo.com
 r5---sn-ogul7n7d.googlevideo.com
+r1---sn-i3b7knlk.googlevideo.com
