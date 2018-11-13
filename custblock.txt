@@ -1,0 +1,25 @@
+＃主机文件阻止广告，跟踪等等！更新日期：2018-11-13 11：00：00
+＃
+#Title：自定义的黑名单
+#阿里云提供的主机
+＃域名数：10
+# ===============================================================
+0.0.0.0 ad.ikonke.com
+0.0.0.0 appstore-gw.ztehome.com.cn
+0.0.0.0 appstore.ztehome.com.cn
+0.0.0.0 down.verify.stat.xunlei.com
+0.0.0.0 g1.tagtic.cn
+0.0.0.0 i1.ytimg.com
+0.0.0.0 i3.ytimg.com
+0.0.0.0 i9.ytimg.com
+0.0.0.0 m.hcenc.com
+0.0.0.0 m.xkena.com
+0.0.0.0 m.yguap.com
+0.0.0.0 mesu.apple.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 update.yy.com
+0.0.0.0 v.quxy9.cn
+0.0.0.0 wpad.lan
+0.0.0.0 www.520mojing.com
+0.0.0.0 wx1.sinaimg.cn
+0.0.0.0 zgysjs.cc
