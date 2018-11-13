@@ -70,3 +70,14 @@ r4---sn-25glenes.googlevideo.com
 r2---sn-i3belnel.googlevideo.com
 r1---sn-npoeenez.googlevideo.com
 r2---sn-npoe7n7r.googlevideo.com
+appupgrade.vivo.com.cn
+assets.dwstatic.com
+da.duowan.com
+dc.you.163.com
+img.kuai.xunlei.com
+js.passport.qihucdn.com
+pcs-sdk-server.alibaba.com
+pub.dwstatic.com
+s6.qhres.com
+udpolimenew.baidu.com
+wanheapp.duowan.com
