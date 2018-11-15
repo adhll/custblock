@@ -19,7 +19,6 @@ update.yy.com
 v.quxy9.cn
 wpad.lan
 www.520mojing.com
-wx1.sinaimg.cn
 zgysjs.cc
 p2s.download.baidu.com
 pcapp-update.youku.com
@@ -34,10 +33,6 @@ ra.gtimg.com
 log.avlyun.com
 googleadservices.com
 pubads.g.doubleclick.net
-adservice.google.com.hk
-adservice.google.com.tw
-adservice.google.com.jp
-adservice.google.com.ge
 r1---sn-25glene6.googlevideo.com
 r4---sn-i3b7knld.googlevideo.com
 r8---sn-juh-h4hs.googlevideo.com
