@@ -9,9 +9,6 @@ appstore-gw.ztehome.com.cn
 appstore.ztehome.com.cn
 down.verify.stat.xunlei.com
 g1.tagtic.cn
-i1.ytimg.com
-i3.ytimg.com
-i9.ytimg.com
 m.hcenc.com
 m.xkena.com
 m.yguap.com
