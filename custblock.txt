@@ -38,3 +38,10 @@ pub.dwstatic.com
 s6.qhres.com
 udpolimenew.baidu.com
 wanheapp.duowan.com
+g1.tagtic.cn 	
+img.adnyg.com 	
+img.adnyg.com.w.kunlungr.com 	
+log.tagtic.cn 	
+pgdt.ugdtimg.com 	
+sdownload.stargame.com 	
+ulogs.umeng.com
