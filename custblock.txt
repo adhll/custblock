@@ -67,4 +67,16 @@ ad1.xiaomi.com
 sdkconfig.ad.xiaomi.com
 staging.ai.api.xiaomi.com
 b.netcheck.gallery.pandora.xiaomi.com
+auth.api.gitv.tv
+misc.pandora.xiaomi.com
+tvapi.kuyun.com
+tv.aiseet.atianqi.com
+vv.play.aiseet.atianqi.com
+alog.umeng.com
+pandora.mi.com
+assistant.pandora.xiaomi.com
+tracking.miui.com
+omgmta.play.aiseet.atianqi.com
+starfish.pandora.xiaomi.com
+misc.in.duokanbox.com
 #------------------------------------
