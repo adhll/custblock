@@ -14,7 +14,7 @@ m.xkena.com
 m.yguap.com
 update.yy.com
 v.quxy9.cn
-wpad.lan
+#wpad.lan
 zgysjs.cc
 pcapp-update.youku.com
 1111.wxad025.cn
